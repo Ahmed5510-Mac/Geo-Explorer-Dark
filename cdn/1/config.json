@@ -147,18 +147,18 @@
           "bbox": {
             "left": "0px",
             "right": "0px",
-            "top": "11.50%",
+            "top": "12.0%",
             "bottom": "0px",
             "width": "100.0%",
-            "height": "88.00%"
+            "height": "88.0%"
           },
           "widgetId": "widget_86",
           "setting": {
             "autoProps": {
               "left": false,
               "right": false,
-              "top": false,
-              "bottom": true,
+              "top": true,
+              "bottom": false,
               "width": "STRETCH"
             },
             "hCenter": false,
@@ -359,18 +359,6 @@
           },
           "widgetId": "widget_91"
         },
-        "5": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_92"
-        },
         "6": {
           "type": "WIDGET",
           "bbox": {
@@ -534,7 +522,7 @@
           },
           "widgetId": "widget_108"
         },
-        "26": {
+        "25": {
           "type": "WIDGET",
           "bbox": {
             "left": "NaNpx",
@@ -543,30 +531,6 @@
             "bottom": "NaNpx",
             "width": "400px",
             "height": "400px"
-          },
-          "widgetId": "widget_190"
-        },
-        "27": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_194"
-        },
-        "29": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "800px",
-            "height": "800px"
           },
           "widgetId": "widget_196"
         }
@@ -575,7 +539,6 @@
         "2",
         "3",
         "4",
-        "5",
         "6",
         "7",
         "8",
@@ -589,9 +552,7 @@
         "20",
         "23",
         "24",
-        "26",
-        "27",
-        "29"
+        "25"
       ]
     },
     "layout_39": {
@@ -601,18 +562,18 @@
         "0": {
           "type": "WIDGET",
           "bbox": {
-            "top": "6.3%",
-            "width": "84px",
-            "height": "84px",
-            "left": "50%",
-            "right": "22.8%",
-            "bottom": "20.2%"
+            "top": "0.0%",
+            "width": "107px",
+            "height": "107px",
+            "left": "7.4%",
+            "right": "12.0%",
+            "bottom": "6.1%"
           },
           "widgetId": "widget_109",
           "setting": {
             "lockParent": true,
             "vCenter": false,
-            "hCenter": true,
+            "hCenter": false,
             "heightMode": "ratio",
             "aspectRatio": 1,
             "autoProps": {
@@ -628,11 +589,11 @@
           "type": "WIDGET",
           "bbox": {
             "left": "50%",
-            "right": "33.4%",
-            "top": "72.9%",
-            "bottom": "-0.2%",
-            "width": "66.6%",
-            "height": "27.3%"
+            "right": "40.1%",
+            "top": "73.5%",
+            "bottom": "-0.0%",
+            "width": "59.9%",
+            "height": "26.5%"
           },
           "widgetId": "widget_156",
           "setting": {
@@ -663,7 +624,7 @@
       "content": {
         "0": {
           "type": "WIDGET",
-          "widgetId": "widget_196",
+          "widgetId": "widget_108",
           "bbox": {
             "left": 0,
             "top": 0,
@@ -945,12 +906,12 @@
             "hCenter": false
           },
           "bbox": {
-            "left": "6px",
+            "left": "9px",
             "right": "88.6%",
-            "top": "121px",
-            "bottom": "76.4%",
-            "width": "35px",
-            "height": "35px"
+            "top": "104px",
+            "bottom": "79.4%",
+            "width": "32px",
+            "height": "32px"
           },
           "widgetId": "widget_155",
           "isPending": false
@@ -959,19 +920,19 @@
           "type": "WIDGET",
           "bbox": {
             "right": "87.6%",
-            "bottom": "17.6%",
-            "width": "12.4%",
-            "height": "56.5%",
-            "left": "0px",
-            "top": "171px"
+            "bottom": "24.1%",
+            "width": "12.2%",
+            "height": "52.9%",
+            "left": "2px",
+            "top": "152px"
           },
           "widgetId": "widget_165",
           "setting": {
             "autoProps": {
               "right": true,
               "left": false,
-              "top": true,
-              "bottom": false
+              "top": false,
+              "bottom": true
             },
             "vCenter": false,
             "hCenter": false
@@ -981,12 +942,12 @@
         "8": {
           "type": "WIDGET",
           "bbox": {
-            "left": "2.1%",
-            "right": "317px",
-            "top": "74px",
-            "bottom": "83.5%",
-            "width": "35px",
-            "height": "35px"
+            "left": "9px",
+            "right": "319px",
+            "top": "56px",
+            "bottom": "86.6%",
+            "width": "32px",
+            "height": "32px"
           },
           "widgetId": "widget_192",
           "setting": {
@@ -1048,18 +1009,6 @@
             "height": "400px"
           },
           "widgetId": "widget_91"
-        },
-        "5": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_92"
         },
         "6": {
           "type": "WIDGET",
@@ -1224,7 +1173,7 @@
           },
           "widgetId": "widget_108"
         },
-        "26": {
+        "25": {
           "type": "WIDGET",
           "bbox": {
             "left": "NaNpx",
@@ -1233,30 +1182,6 @@
             "bottom": "NaNpx",
             "width": "400px",
             "height": "400px"
-          },
-          "widgetId": "widget_190"
-        },
-        "27": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_194"
-        },
-        "29": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "800px",
-            "height": "800px"
           },
           "widgetId": "widget_196"
         }
@@ -1265,7 +1190,6 @@
         "2",
         "3",
         "4",
-        "5",
         "6",
         "7",
         "8",
@@ -1279,9 +1203,7 @@
         "20",
         "23",
         "24",
-        "26",
-        "27",
-        "29"
+        "25"
       ]
     },
     "layout_55": {
@@ -1560,17 +1482,17 @@
           "type": "WIDGET",
           "bbox": {
             "left": "50%",
-            "right": "31.3%",
+            "right": "25.4%",
             "top": "50%",
-            "bottom": "17px",
-            "width": "147px",
-            "height": "39px"
+            "bottom": "23px",
+            "width": "177px",
+            "height": "37px"
           },
           "widgetId": "widget_164",
           "setting": {
             "autoProps": {
-              "right": true,
-              "left": false,
+              "right": false,
+              "left": true,
               "top": false,
               "bottom": true
             },
@@ -1595,7 +1517,6 @@
       "label": "Controller layout",
       "order": [
         "0",
-        "1",
         "2",
         "3",
         "4",
@@ -1612,7 +1533,8 @@
         "17",
         "18",
         "19",
-        "20"
+        "20",
+        "21"
       ],
       "content": {
         "0": {
@@ -1626,18 +1548,6 @@
             "height": "400px"
           },
           "widgetId": "widget_166"
-        },
-        "1": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_167"
         },
         "2": {
           "type": "WIDGET",
@@ -1848,6 +1758,18 @@
             "height": "400px"
           },
           "widgetId": "widget_186"
+        },
+        "21": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "NaNpx",
+            "right": "NaNpx",
+            "top": "NaNpx",
+            "bottom": "NaNpx",
+            "width": "400px",
+            "height": "400px"
+          },
+          "widgetId": "widget_197"
         }
       }
     },
@@ -1856,7 +1778,7 @@
       "content": {
         "0": {
           "type": "WIDGET",
-          "widgetId": "widget_186",
+          "widgetId": "widget_197",
           "bbox": {
             "left": 0,
             "top": 0,
@@ -1878,17 +1800,17 @@
             "left": "0px",
             "right": "0px",
             "top": "96px",
-            "bottom": "0.0%",
+            "bottom": "2.6%",
             "width": "100.0%",
-            "height": "88.0000%"
+            "height": "88.0%"
           },
           "widgetId": "widget_86",
           "setting": {
             "autoProps": {
               "left": false,
               "right": false,
-              "top": false,
-              "bottom": true,
+              "top": true,
+              "bottom": false,
               "width": "STRETCH"
             },
             "hCenter": false,
@@ -2005,12 +1927,12 @@
             "hCenter": false
           },
           "bbox": {
-            "left": "16px",
-            "right": "92.7%",
-            "top": "282px",
-            "bottom": "49.9%",
-            "width": "35.00px",
-            "height": "35.00px"
+            "left": "14px",
+            "right": "92.3%",
+            "top": "217px",
+            "bottom": "72.4%",
+            "width": "32px",
+            "height": "32px"
           },
           "widgetId": "widget_155",
           "isPending": false
@@ -2037,13 +1959,38 @@
             "hCenter": true
           },
           "isPending": false
+        },
+        "8": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "14.00px",
+            "right": "92.2%",
+            "top": "260px",
+            "bottom": "67.5%",
+            "width": "32px",
+            "height": "32px"
+          },
+          "widgetId": "widget_195",
+          "isPending": false
         }
       },
       "order": [
         "7",
         "0",
         "1",
-        "6"
+        "6",
+        "8"
       ]
     },
     "layout_66": {
@@ -2084,18 +2031,6 @@
             "height": "400px"
           },
           "widgetId": "widget_91"
-        },
-        "5": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_92"
         },
         "6": {
           "type": "WIDGET",
@@ -2260,7 +2195,7 @@
           },
           "widgetId": "widget_108"
         },
-        "26": {
+        "25": {
           "type": "WIDGET",
           "bbox": {
             "left": "NaNpx",
@@ -2269,30 +2204,6 @@
             "bottom": "NaNpx",
             "width": "400px",
             "height": "400px"
-          },
-          "widgetId": "widget_190"
-        },
-        "27": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "400px",
-            "height": "400px"
-          },
-          "widgetId": "widget_194"
-        },
-        "29": {
-          "type": "WIDGET",
-          "bbox": {
-            "left": "NaNpx",
-            "right": "NaNpx",
-            "top": "NaNpx",
-            "bottom": "NaNpx",
-            "width": "800px",
-            "height": "800px"
           },
           "widgetId": "widget_196"
         }
@@ -2301,7 +2212,6 @@
         "2",
         "3",
         "4",
-        "5",
         "6",
         "7",
         "8",
@@ -2315,9 +2225,7 @@
         "20",
         "23",
         "24",
-        "26",
-        "27",
-        "29"
+        "25"
       ]
     },
     "layout_67": {
@@ -2527,10 +2435,10 @@
           "type": "WIDGET",
           "bbox": {
             "left": "50%",
-            "right": "16.7%",
+            "right": "31.1%",
             "top": "50%",
-            "bottom": "20.0%",
-            "width": "37.9%",
+            "bottom": "20.6%",
+            "width": "42.6%",
             "height": "58.9%"
           },
           "widgetId": "widget_191",
@@ -2538,8 +2446,8 @@
             "autoProps": {
               "right": true,
               "left": false,
-              "top": false,
-              "bottom": true
+              "top": true,
+              "bottom": false
             },
             "vCenter": true,
             "hCenter": true
@@ -2572,7 +2480,7 @@
         "toolConfig": {
           "canZoom": true,
           "canHome": true,
-          "canSearch": false,
+          "canSearch": true,
           "canNavigation": true,
           "canSelect": true,
           "canSelectState": true,
@@ -2672,8 +2580,8 @@
               "height": 467
             },
             "widget_96": {
-              "width": 398,
-              "height": 428
+              "width": 330,
+              "height": 394
             },
             "widget_108": {
               "width": 590,
@@ -2686,18 +2594,6 @@
             "widget_190": {
               "width": 579,
               "height": 386
-            },
-            "widget_91": {
-              "width": 540,
-              "height": 451
-            },
-            "widget_94": {
-              "width": 481,
-              "height": 401
-            },
-            "widget_98": {
-              "width": 354,
-              "height": 381
             }
           }
         },
@@ -2788,6 +2684,57 @@
               }
             },
             "name": "المعالم فى السعودية",
+            "useDataSource": {
+              "dataSourceId": "dataSource_7-18626535bf5-layer-76",
+              "mainDataSourceId": "dataSource_7-18626535bf5-layer-76",
+              "rootDataSourceId": "dataSource_7",
+              "fields": [
+                "numvotes"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "numvotes",
+                  "operator": "NUMBER_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "USER_INPUT",
+                    "inputEditor": "TEXT_BOX",
+                    "value": [
+                      {
+                        "value": 0,
+                        "label": "0"
+                      }
+                    ]
+                  },
+                  "displayType": "NONE",
+                  "askForValueOptions": null,
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "((numvotes = 0))",
+              "displaySQL": "(numvotes = 0)"
+            },
+            "autoApplyWhenWidgetOpen": false,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": {
+              "svg": "${appResourceUrl}/images/icon_picker_in_setting/1678099276489.png",
+              "properties": {
+                "filename": "1678099276489.png",
+                "originalName": "tree.png",
+                "path": "${appResourceUrl}/images/icon_picker_in_setting/1678099276489.png",
+                "color": "",
+                "size": 14,
+                "inlineSvg": false
+              }
+            },
+            "name": "CitizenProblemsNapervilleDomain",
             "useDataSource": {
               "dataSourceId": "dataSource_7-18626535bf5-layer-76",
               "mainDataSourceId": "dataSource_7-18626535bf5-layer-76",
@@ -3808,106 +3755,6 @@
         }
       ]
     },
-    "widget_92": {
-      "uri": "widgets/arcgis/feature-info/",
-      "version": "1.10.0",
-      "label": "Feature Info",
-      "config": {
-        "limitGraphics": false,
-        "maxGraphics": 0,
-        "title": true,
-        "fields": true,
-        "media": true,
-        "attachments": true,
-        "lastEditInfo": true,
-        "noDataMessage": "No data found.",
-        "styleType": "custom",
-        "style": {
-          "textColor": "var(--dark)",
-          "fontSizeType": "auto",
-          "fontSize": {
-            "distance": 14,
-            "unit": "px"
-          },
-          "backgroundColor": ""
-        }
-      },
-      "id": "widget_92",
-      "useDataSources": [
-        {
-          "dataSourceId": "dataSource_7-1862652ec53-layer-1-1862652ed1b-layer-2",
-          "mainDataSourceId": "dataSource_7-1862652ec53-layer-1-1862652ed1b-layer-2",
-          "rootDataSourceId": "dataSource_7",
-          "useFieldsInPopupInfo": true
-        }
-      ],
-      "dataActions": {
-        "showOnMap": {
-          "config": {
-            "isUseCustomSymbol": true,
-            "symbolOption": {
-              "pointSymbol": {
-                "type": "esriSMS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "angle": 0,
-                "xoffset": 0,
-                "yoffset": 0,
-                "size": 12,
-                "style": "esriSMSCircle",
-                "outline": {
-                  "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
-                  "width": 1,
-                  "style": "esriSLSSolid"
-                }
-              },
-              "polylineSymbol": {
-                "type": "esriSLS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "width": 0.75,
-                "style": "esriSLSSolid"
-              },
-              "polygonSymbol": {
-                "type": "esriSFS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "outline": {
-                  "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
-                  "width": 1,
-                  "style": "esriSLSSolid"
-                },
-                "style": "esriSFSSolid"
-              }
-            }
-          }
-        }
-      }
-    },
     "widget_93": {
       "uri": "widgets/survey123/",
       "version": "1.10.0",
@@ -3930,11 +3777,10 @@
           "tags": [
             "survey"
           ],
-          "thumbnail": "https://ahmed-darwish.maps.arcgis.com/sharing/rest/content/items/957fa6c4f8934a158806d18037191a44/info/thumbnail/ago_downloaded.png?token=OOErZLF4QvaNevIgv1NuKIWGKUjbPpt3_QZQqc3ni1SUcwjpnvPCdRhyYOHltZ2kU8m6a8PnfM6BXw2SHgKMCOyTP35ra4dYisi3p6kxRvLpU_CpI6BCT1aER8MxCwoKqpizrncV89pCR8fj14oaBPfzqe-mzbGAR9JR_5CaW42T-frw5wzYGf6jR93ushietgNwStR3D2OzJjB6H8HMrIvJpOBjEghrltcN-iMsX7w.",
+          "thumbnail": "https://ahmed-darwish.maps.arcgis.com/sharing/rest/content/items/957fa6c4f8934a158806d18037191a44/info/thumbnail/ago_downloaded.png?token=Nszd3Q2C_0U_6-OxTGmc4Ah0xEnB-lJ1D2kYdcEq-k2T2St_jQ5WTw2YOoBKAtQPth7FyRhkWJsD6rmzwJoHTmBPagaRZAw1svxnIbvRxUeTMeMYkFF2EUvF51gIaHgH4rTOqaSkkM1Kjte4pYmHeF6I0LcZthgBRvK3KSd-L173h2trf_mDD4KMYGSwd2MSWmPiS0LPfsgUnT4Q0h0SP1S9Ci9RPNUEW027nNjRoQw.",
           "formItemInfo": {
             "typeKeywords": [
               "Form",
-              "Redraft",
               "Survey123",
               "Survey123 Hub",
               "xForm"
@@ -3943,7 +3789,7 @@
             "owner": "Ahmed.Darwish",
             "created": 1676199712000,
             "isOrgItem": true,
-            "modified": 1676281421000,
+            "modified": 1676281579000,
             "guid": null,
             "name": "957fa6c4f8934a158806d18037191a44.zip",
             "title": "Ahmed  survey",
@@ -3983,11 +3829,11 @@
             "numComments": 0,
             "numRatings": 0,
             "avgRating": 0,
-            "numViews": 0,
+            "numViews": 1,
             "scoreCompleteness": 33,
             "groupDesignations": null,
             "contentOrigin": "self",
-            "lastViewed": -1
+            "lastViewed": 1676278800000
           },
           "form": {
             "layerName": "survey",
@@ -4002,7 +3848,7 @@
             },
             "questions": [],
             "rules": [],
-            "version": "3.16",
+            "version": "3.17",
             "themes": [
               {
                 "id": null,
@@ -4920,131 +4766,6 @@
             "profileSettings": {
               "layers": []
             }
-          },
-          "dataSource_8": {
-            "profileChartSettings": {
-              "isCustomElevationLayer": true,
-              "elevationLayerURL": "https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer",
-              "linearUnit": "",
-              "elevationUnit": "",
-              "displayStatistics": true,
-              "selectedStatistics": [
-                {
-                  "name": "avgElevation",
-                  "label": "AVG Elevation",
-                  "enabled": true
-                },
-                {
-                  "name": "avgNegativeSlope",
-                  "label": "AVG Negative Slope",
-                  "enabled": true
-                },
-                {
-                  "name": "avgPositiveSlope",
-                  "label": "AVG Positive Slope",
-                  "enabled": true
-                },
-                {
-                  "name": "elevationGain",
-                  "label": "Elevation Gain",
-                  "enabled": true
-                },
-                {
-                  "name": "elevationLoss",
-                  "label": "Elevation Loss",
-                  "enabled": true
-                },
-                {
-                  "name": "maxDistance",
-                  "label": "MAX Distance",
-                  "enabled": true
-                },
-                {
-                  "name": "maxElevation",
-                  "label": "MAX Elevation",
-                  "enabled": true
-                },
-                {
-                  "name": "maxNegativeSlope",
-                  "label": "MAX Negative Slope",
-                  "enabled": true
-                },
-                {
-                  "name": "maxPositiveSlope",
-                  "label": "MAX Positive Slope",
-                  "enabled": true
-                },
-                {
-                  "name": "minElevation",
-                  "label": "MIN Elevation",
-                  "enabled": true
-                }
-              ],
-              "groundColor": "#b54900",
-              "graphicsHighlightColor": "#00ffff"
-            },
-            "advanceOptions": false,
-            "profileSettings": {
-              "layers": [
-                {
-                  "layerId": "dataSource_8-18649e284f5-layer-77-18649e28818-layer-84",
-                  "elevationSettings": {
-                    "type": "z",
-                    "unit": "meters",
-                    "field1": "",
-                    "field2": ""
-                  },
-                  "distanceSettings": {
-                    "type": "map",
-                    "field": "Shape__Length",
-                    "unit": "kilometers"
-                  },
-                  "style": {
-                    "lineType": "solid-line",
-                    "lineColor": "#5ffea6",
-                    "lineThickness": 3
-                  }
-                },
-                {
-                  "layerId": "dataSource_8-18649e284f5-layer-77-18649e28818-layer-83",
-                  "elevationSettings": {
-                    "type": "z",
-                    "unit": "meters",
-                    "field1": "",
-                    "field2": ""
-                  },
-                  "distanceSettings": {
-                    "type": "map",
-                    "field": "Shape__Length",
-                    "unit": "kilometers"
-                  },
-                  "style": {
-                    "lineType": "solid-line",
-                    "lineColor": "#50ac73",
-                    "lineThickness": 3
-                  }
-                },
-                {
-                  "layerId": "dataSource_8-18649e284f5-layer-77-18649e28818-layer-81",
-                  "elevationSettings": {
-                    "type": "z",
-                    "unit": "meters",
-                    "field1": "",
-                    "field2": ""
-                  },
-                  "distanceSettings": {
-                    "type": "map",
-                    "field": "Shape__Length",
-                    "unit": "kilometers"
-                  },
-                  "style": {
-                    "lineType": "solid-line",
-                    "lineColor": "#6d12ea",
-                    "lineThickness": 3
-                  }
-                }
-              ]
-            }
           }
         }
       },
@@ -5178,7 +4899,7 @@
         "bufferUnits": "miles",
         "displayHeader": true,
         "viewMode": "full",
-        "selectedReport": "91f118029214438aa55ea4a3b2058343",
+        "selectedReport": "7777e91d63904efdaf2000cbed74ef78",
         "backgroundColor": "#525659",
         "headerColor": "#0079C1",
         "imageExport": true,
@@ -6003,22 +5724,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "AUT_MBR_2022",
+            "defaultDatasetID": "AUT_MBR_2021",
             "datasets": [
-              "AUT_MBR_2022"
+              "AUT_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "AT Standard Data",
-                "shortDescription": "This data source for the standard AT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard AT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard AT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard AT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "AUT_MBR_2022"
+                  "AUT_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -6048,7 +5769,7 @@
                   "dataBrowserVariableCount": 133
                 },
                 "populationToPolygonSizeRating": 1.23,
-                "apportionmentConfidence": 2.13,
+                "apportionmentConfidence": 2.06,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -6583,22 +6304,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "BEL_MBR_2022",
+            "defaultDatasetID": "BEL_MBR_2021",
             "datasets": [
-              "BEL_MBR_2022"
+              "BEL_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "BE Standard Data",
-                "shortDescription": "This data source for the standard BE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard BE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard BE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard BE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "BEL_MBR_2022"
+                  "BEL_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -6820,8 +6541,8 @@
             "defaultReportTemplate": "Benin Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -7474,8 +7195,8 @@
             "defaultReportTemplate": "Burkina Faso Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -7807,7 +7528,7 @@
               "CAN_ESRI_2022",
               "CAN_CPY_2022",
               "CAN_DATAAXLE_2022",
-              "CAN_SAFEGRAPH_2023"
+              "CAN_SAFEGRAPH_2022"
             ],
             "hierarchies": [
               {
@@ -7823,7 +7544,7 @@
                   "CAN_ESRI_2022",
                   "CAN_CPY_2022",
                   "CAN_DATAAXLE_2022",
-                  "CAN_SAFEGRAPH_2023"
+                  "CAN_SAFEGRAPH_2022"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -8900,22 +8621,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "DNK_MBR_2022",
+            "defaultDatasetID": "DNK_MBR_2021",
             "datasets": [
-              "DNK_MBR_2022"
+              "DNK_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "DK Standard Data",
-                "shortDescription": "This data source for the standard DK data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard DK data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard DK data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard DK data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "DNK_MBR_2022"
+                  "DNK_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -8943,7 +8664,7 @@
                   "dataBrowserVariableCount": 135
                 },
                 "populationToPolygonSizeRating": 1.57,
-                "apportionmentConfidence": 2.15,
+                "apportionmentConfidence": 2.14,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -9772,22 +9493,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "FIN_MBR_2022",
+            "defaultDatasetID": "FIN_MBR_2021",
             "datasets": [
-              "FIN_MBR_2022"
+              "FIN_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "FI Standard Data",
-                "shortDescription": "This data source for the standard FI data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard FI data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard FI data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard FI data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "FIN_MBR_2022"
+                  "FIN_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -9810,11 +9531,10 @@
                     "Income",
                     "Jobs",
                     "Key Facts",
-                    "Marital Status",
                     "Population",
                     "Spending"
                   ],
-                  "dataBrowserVariableCount": 125
+                  "dataBrowserVariableCount": 120
                 },
                 "populationToPolygonSizeRating": -1,
                 "apportionmentConfidence": -1,
@@ -9870,13 +9590,13 @@
             "defaultDatasetID": "FRA_EsriFrance_2021",
             "datasets": [
               "FRA_EsriFrance_2021",
-              "FRA_MBR_2022"
+              "FRA_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "FRA_EsriFrance",
                 "alias": "Esri France",
-                "shortDescription": "The source of the Esri France data is Vintage 2021.",
+                "shortDescription": "The source of the Esri France data is Vintage 2017.",
                 "default": true,
                 "longDescription": "<p>This data source is provided by Esri France.</p><p><a href='https://doc.arcgis.com/en/esri-demographics/data/europe.htm#GUID-A5E797E5-4CC1-4E16-830F-6EE0700EA5CB' target='_blank'>Learn more.</a></p>",
                 "locales": [
@@ -9935,14 +9655,14 @@
               {
                 "ID": "census",
                 "alias": "Standard",
-                "shortDescription": "This data source for the standard FR data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard FR data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": false,
                 "longDescription": "<p>This data source is provided by Michael Bauer Research (MBR).</p><p>Data are available on internationally comparable geographical levels. Data are compiled on administrative, postcode and micro levels compatible to existing available boundaries.</p><p>To furnish users with a broad variety of data, various indicators for regional demand are compiled:</p><ul><li>Population</li><li>Extended Sociodemographics (households, household size, households by type, sex and age, education, marital status and unemployed)</li><li>Households by Income</li><li>Purchasing Power (disposable household income)</li><li>Consumer Spending data by product groups</li></ul><p><a href='http://downloads.esri.com/esri_content_doc/dbl/int/mb-research_notes.pdf' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "FRA_MBR_2022"
+                  "FRA_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -10422,7 +10142,7 @@
             "defaultDatasetID": "DEU_Nexiga_2021",
             "datasets": [
               "DEU_Nexiga_2021",
-              "DEU_MBR_2022"
+              "DEU_MBR_2021"
             ],
             "hierarchies": [
               {
@@ -10493,14 +10213,14 @@
               {
                 "ID": "census",
                 "alias": "DE Standard Data",
-                "shortDescription": "This data source for the standard DE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard DE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": false,
                 "longDescription": "<p>This data source is provided by Michael Bauer Research (MBR).</p><p>Data are available on internationally comparable geographical levels. Data are compiled on administrative, postcode and micro levels compatible to existing available boundaries.</p><p>To furnish users with a broad variety of data, various indicators for regional demand are compiled:</p><ul><li>Population</li><li>Extended Sociodemographics (households, household size, households by type, sex and age, education, marital status and unemployed)</li><li>Households by Income</li><li>Purchasing Power (disposable household income)</li><li>Consumer Spending data by product groups</li></ul><p><a href='http://downloads.esri.com/esri_content_doc/dbl/int/mb-research_notes.pdf' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "DEU_MBR_2022"
+                  "DEU_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -10517,7 +10237,6 @@
                 "variablesInfo": {
                   "categories": [
                     "Age",
-                    "Education",
                     "Households",
                     "Income",
                     "Jobs",
@@ -10526,7 +10245,7 @@
                     "Population",
                     "Spending"
                   ],
-                  "dataBrowserVariableCount": 126
+                  "dataBrowserVariableCount": 121
                 },
                 "populationToPolygonSizeRating": -1,
                 "apportionmentConfidence": -1,
@@ -10663,22 +10382,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "GRC_MBR_2022",
+            "defaultDatasetID": "GRC_MBR_2021",
             "datasets": [
-              "GRC_MBR_2022"
+              "GRC_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "GR Standard Data",
-                "shortDescription": "This data source for the standard GR data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard GR data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard GR data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard GR data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "GRC_MBR_2022"
+                  "GRC_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -10705,7 +10424,7 @@
                     "Population",
                     "Spending"
                   ],
-                  "dataBrowserVariableCount": 130
+                  "dataBrowserVariableCount": 125
                 },
                 "populationToPolygonSizeRating": 2.19,
                 "apportionmentConfidence": 2.29,
@@ -11125,8 +10844,8 @@
             "defaultReportTemplate": "Guinea-Bissau Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -11898,22 +11617,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "IRL_MBR_2022",
+            "defaultDatasetID": "IRL_MBR_2021",
             "datasets": [
-              "IRL_MBR_2022"
+              "IRL_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "IE Standard Data",
-                "shortDescription": "This data source for the standard IE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard IE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard IE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard IE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "IRL_MBR_2022"
+                  "IRL_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -11942,7 +11661,7 @@
                   "dataBrowserVariableCount": 135
                 },
                 "populationToPolygonSizeRating": 1.13,
-                "apportionmentConfidence": 2.01,
+                "apportionmentConfidence": 1.84,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -11966,6 +11685,8 @@
             "defaultDataCollection": "KeyGlobalFacts",
             "defaultReport": "IrelandSummaryReport",
             "defaultReportTemplate": "Ireland Summary Report",
+            "defaultInfographic": "key-facts-global",
+            "defaultInfographicTemplate": "Key Facts (MBR)",
             "currencyCode": "EUR",
             "currencyName": "Euro",
             "currencySymbol": "€",
@@ -12068,22 +11789,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "ITA_MBR_2022",
+            "defaultDatasetID": "ITA_MBR_2021",
             "datasets": [
-              "ITA_MBR_2022"
+              "ITA_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "IT Standard Data",
-                "shortDescription": "This data source for the standard IT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard IT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard IT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard IT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "ITA_MBR_2022"
+                  "ITA_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -13194,22 +12915,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "LIE_MBR_2022",
+            "defaultDatasetID": "LIE_MBR_2021",
             "datasets": [
-              "LIE_MBR_2022"
+              "LIE_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "LI Standard Data",
-                "shortDescription": "This data source for the standard LI data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard LI data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard LI data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard LI data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "LIE_MBR_2022"
+                  "LIE_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -13234,7 +12955,7 @@
                   "dataBrowserVariableCount": 130
                 },
                 "populationToPolygonSizeRating": 1.34,
-                "apportionmentConfidence": 1.99,
+                "apportionmentConfidence": 1.98,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -13375,22 +13096,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "LUX_MBR_2022",
+            "defaultDatasetID": "LUX_MBR_2021",
             "datasets": [
-              "LUX_MBR_2022"
+              "LUX_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "LU Standard Data",
-                "shortDescription": "This data source for the standard LU data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard LU data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard LU data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard LU data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "LUX_MBR_2022"
+                  "LUX_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -13414,7 +13135,7 @@
                   "dataBrowserVariableCount": 112
                 },
                 "populationToPolygonSizeRating": 1.48,
-                "apportionmentConfidence": 2.14,
+                "apportionmentConfidence": 2.16,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -13912,8 +13633,8 @@
             "defaultReportTemplate": "Mali Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -15287,7 +15008,7 @@
             "defaultDatasetID": "NLD_4orange_2021",
             "datasets": [
               "NLD_4orange_2021",
-              "NLD_MBR_2022"
+              "NLD_MBR_2021"
             ],
             "hierarchies": [
               {
@@ -15363,14 +15084,14 @@
               {
                 "ID": "census",
                 "alias": "NL Standard Data",
-                "shortDescription": "This data source for the standard NL data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard NL data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": false,
                 "longDescription": "<p>This data source is provided by Michael Bauer Research (MBR).</p><p>Data are available on internationally comparable geographical levels. Data are compiled on administrative, postcode and micro levels compatible to existing available boundaries.</p><p>To furnish users with a broad variety of data, various indicators for regional demand are compiled:</p><ul><li>Population</li><li>Extended Sociodemographics (households, household size, households by type, sex and age, education, marital status and unemployed)</li><li>Households by Income</li><li>Purchasing Power (disposable household income)</li><li>Consumer Spending data by product groups</li></ul><p><a href='http://downloads.esri.com/esri_content_doc/dbl/int/mb-research_notes.pdf' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "NLD_MBR_2022"
+                  "NLD_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -15751,8 +15472,8 @@
             "defaultReportTemplate": "Niger Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -15941,22 +15662,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "NOR_MBR_2022",
+            "defaultDatasetID": "NOR_MBR_2021",
             "datasets": [
-              "NOR_MBR_2022"
+              "NOR_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "NO Standard Data",
-                "shortDescription": "This data source for the standard NO data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard NO data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard NO data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard NO data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "NOR_MBR_2022"
+                  "NOR_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -16568,8 +16289,8 @@
             "defaultInfographicTemplate": "Key Facts (MBR)",
             "currencyCode": "PHP",
             "currencyName": "Philippine Piso",
-            "currencySymbol": "₱",
-            "currencyFormat": "₱0;-₱0",
+            "currencySymbol": "PHP",
+            "currencyFormat": "PHP 0;-PHP 0",
             "dataCollections": ""
           },
           {
@@ -16590,22 +16311,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "POL_MBR_2022",
+            "defaultDatasetID": "POL_MBR_2021",
             "datasets": [
-              "POL_MBR_2022"
+              "POL_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "PL Standard Data",
-                "shortDescription": "This data source for the standard PL data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard PL data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard PL data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard PL data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "POL_MBR_2022"
+                  "POL_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -16690,22 +16411,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "PRT_MBR_2022",
+            "defaultDatasetID": "PRT_MBR_2021",
             "datasets": [
-              "PRT_MBR_2022"
+              "PRT_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "PT Standard Data",
-                "shortDescription": "This data source for the standard PT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard PT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard PT data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard PT data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "PRT_MBR_2022"
+                  "PRT_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -16733,7 +16454,7 @@
                   ],
                   "dataBrowserVariableCount": 121
                 },
-                "populationToPolygonSizeRating": 1.08,
+                "populationToPolygonSizeRating": 1.06,
                 "apportionmentConfidence": 2.06,
                 "apportionmentThresholds": [
                   {
@@ -16789,9 +16510,9 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "PRI_ACS_1721",
+            "defaultDatasetID": "PRI_ACS_2022",
             "datasets": [
-              "PRI_ACS_1721",
+              "PRI_ACS_2022",
               "PRI_SAFEGRAPH_2022",
               "PRI_ESRI_2010",
               "PRI_MBR_2020",
@@ -16800,15 +16521,15 @@
             "hierarchies": [
               {
                 "ID": "ACS",
-                "alias": "ACS",
-                "shortDescription": "This data source contains data from Esri's 2017-2021 ACS database for Puerto Rico. Vintage 2017-2021.",
+                "alias": "PRI_ACS",
+                "shortDescription": "This data source contains data from Esri's 2016-2020 ACS database for Puerto Rico. Vintage 2022.",
                 "default": true,
-                "longDescription": "<p>This data source contains data from Esri's 2017-2021 ACS database for Puerto Rico.</p><p><a href='https://doc.arcgis.com/en/esri-demographics/data/north-america.htm#ESRI_SECTION1_070BDD6EEF2740599D703924861C0B38' target='_blank'>Learn more.</a></p>",
+                "longDescription": "<p>This data source contains data from Esri's 2016-2020 ACS database for Puerto Rico.</p><p><a href='https://doc.arcgis.com/en/esri-demographics/data/north-america.htm#ESRI_SECTION1_070BDD6EEF2740599D703924861C0B38' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "PRI_ACS_1721",
+                  "PRI_ACS_2022",
                   "PRI_SAFEGRAPH_2022"
                 ],
                 "levelsInfo": {
@@ -16838,7 +16559,7 @@
                     "Poverty",
                     "Race"
                   ],
-                  "dataBrowserVariableCount": 824
+                  "dataBrowserVariableCount": 801
                 },
                 "populationToPolygonSizeRating": 2.65,
                 "apportionmentConfidence": 1.63,
@@ -16992,8 +16713,6 @@
             "defaultDataCollection": "KeyGlobalFacts",
             "defaultReport": "acs_population",
             "defaultReportTemplate": "ACS Population Summary",
-            "defaultInfographic": "at-risk-population",
-            "defaultInfographicTemplate": "At Risk Population",
             "currencyCode": "USD",
             "currencyName": "US Dollar",
             "currencySymbol": "$",
@@ -17269,22 +16988,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "RUS_MBR_2022",
+            "defaultDatasetID": "RUS_MBR_2021",
             "datasets": [
-              "RUS_MBR_2022"
+              "RUS_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "RU Standard Data",
-                "shortDescription": "This data source for the standard RU data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard RU data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard RU data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard RU data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "RUS_MBR_2022"
+                  "RUS_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -17308,7 +17027,7 @@
                   "dataBrowserVariableCount": 118
                 },
                 "populationToPolygonSizeRating": 3.46,
-                "apportionmentConfidence": 3.04,
+                "apportionmentConfidence": 3.03,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -17565,8 +17284,8 @@
             "defaultReportTemplate": "Senegal Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -18222,7 +17941,7 @@
             "defaultDatasetID": "ESP_AIS_2021",
             "datasets": [
               "ESP_AIS_2021",
-              "ESP_MBR_2022"
+              "ESP_MBR_2021"
             ],
             "hierarchies": [
               {
@@ -18288,14 +18007,14 @@
               {
                 "ID": "census",
                 "alias": "ES Standard Data",
-                "shortDescription": "This data source for the standard ES data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard ES data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": false,
                 "longDescription": "<p>This data source is provided by Michael Bauer Research (MBR).</p><p>Data are available on internationally comparable geographical levels. Data are compiled on administrative, postcode and micro levels compatible to existing available boundaries.</p><p>To furnish users with a broad variety of data, various indicators for regional demand are compiled:</p><ul><li>Population</li><li>Extended Sociodemographics (households, household size, households by type, sex and age, education, marital status and unemployed)</li><li>Households by Income</li><li>Purchasing Power (disposable household income)</li><li>Consumer Spending data by product groups</li></ul><p><a href='http://downloads.esri.com/esri_content_doc/dbl/int/mb-research_notes.pdf' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "ESP_MBR_2022"
+                  "ESP_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -18536,22 +18255,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "SWE_MBR_2022",
+            "defaultDatasetID": "SWE_MBR_2021",
             "datasets": [
-              "SWE_MBR_2022"
+              "SWE_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "SE Standard Data",
-                "shortDescription": "This data source for the standard SE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard SE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard SE data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard SE data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "SWE_MBR_2022"
+                  "SWE_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -18578,8 +18297,8 @@
                   ],
                   "dataBrowserVariableCount": 126
                 },
-                "populationToPolygonSizeRating": 1.4,
-                "apportionmentConfidence": 2.14,
+                "populationToPolygonSizeRating": 1.39,
+                "apportionmentConfidence": 2.12,
                 "apportionmentThresholds": [
                   {
                     "method": "BlockApportion",
@@ -18629,22 +18348,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "CHE_MBR_2022",
+            "defaultDatasetID": "CHE_MBR_2021",
             "datasets": [
-              "CHE_MBR_2022"
+              "CHE_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "CH Standard Data",
-                "shortDescription": "This data source for the standard CH data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard CH data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard CH data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard CH data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "CHE_MBR_2022"
+                  "CHE_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -18670,7 +18389,7 @@
                     "Population",
                     "Spending"
                   ],
-                  "dataBrowserVariableCount": 123
+                  "dataBrowserVariableCount": 117
                 },
                 "populationToPolygonSizeRating": -1,
                 "apportionmentConfidence": -1,
@@ -19156,8 +18875,8 @@
             "defaultReportTemplate": "Togo Summary Report",
             "currencyCode": "XOF",
             "currencyName": "West African CFA Franc",
-            "currencySymbol": "F CFA",
-            "currencyFormat": "F CFA 0;-F CFA 0",
+            "currencySymbol": "CFA",
+            "currencyFormat": "CFA 0;-CFA 0",
             "dataCollections": ""
           },
           {
@@ -19321,6 +19040,99 @@
             "dataCollections": ""
           },
           {
+            "id": "TR",
+            "name": "Turkey",
+            "abbr3": "TUR",
+            "altName": "TURKEY",
+            "continent": "Europe",
+            "distanceUnits": "Kilometers",
+            "esriUnits": "esriKilometers",
+            "defaultExtent": {
+              "xmin": 25.6696399672,
+              "ymin": 35.8086670224,
+              "xmax": 44.8252858906,
+              "ymax": 42.1049190122,
+              "spatialReference": {
+                "wkid": 4326,
+                "latestWkid": 4326
+              }
+            },
+            "defaultDatasetID": "TUR_MBR_2021",
+            "datasets": [
+              "TUR_MBR_2021"
+            ],
+            "hierarchies": [
+              {
+                "ID": "census",
+                "alias": "TR Standard Data",
+                "shortDescription": "This data source for the standard TR data is Michael Bauer Research (MBR). Vintage 2021.",
+                "default": true,
+                "longDescription": "This data source for the standard TR data is Michael Bauer Research (MBR). Vintage 2021.",
+                "locales": [
+                  "en"
+                ],
+                "datasets": [
+                  "TUR_MBR_2021"
+                ],
+                "levelsInfo": {
+                  "geographyLevels": [
+                    "Country",
+                    "Regions",
+                    "Subregions",
+                    "Provinces",
+                    "Postcodes2",
+                    "Districts",
+                    "Postcodes5"
+                  ]
+                },
+                "variablesInfo": {
+                  "categories": [
+                    "Age",
+                    "Education",
+                    "Households",
+                    "Income",
+                    "Jobs",
+                    "Key Facts",
+                    "Marital Status",
+                    "Population",
+                    "Spending"
+                  ],
+                  "dataBrowserVariableCount": 123
+                },
+                "populationToPolygonSizeRating": 2.38,
+                "apportionmentConfidence": 2.37,
+                "apportionmentThresholds": [
+                  {
+                    "method": "BlockApportion",
+                    "dataLayer": "TR.Postcodes5",
+                    "pointsLayer": "TR.BlockPoints",
+                    "maximumSize": 150
+                  },
+                  {
+                    "method": "CentroidsInPolygon",
+                    "dataLayer": "TR.Postcodes5",
+                    "maximumSize": 250
+                  },
+                  {
+                    "method": "CentroidsInPolygon",
+                    "dataLayer": "TR.Districts"
+                  }
+                ],
+                "hasInterestingFactsStatistics": true
+              }
+            ],
+            "defaultDataCollection": "KeyGlobalFacts",
+            "defaultReport": "TurkeySummaryReport",
+            "defaultReportTemplate": "Turkey Summary Report",
+            "defaultInfographic": "key-facts-global",
+            "defaultInfographicTemplate": "Key Facts (MBR)",
+            "currencyCode": "TRY",
+            "currencyName": "Turkish Lira",
+            "currencySymbol": "TRY",
+            "currencyFormat": "TRY 0;-TRY 0",
+            "dataCollections": ""
+          },
+          {
             "id": "TC",
             "name": "Turks and Caicos Islands",
             "abbr3": "TCA",
@@ -19393,99 +19205,6 @@
             "currencyName": "US Dollar",
             "currencySymbol": "$",
             "currencyFormat": "$0;-$0",
-            "dataCollections": ""
-          },
-          {
-            "id": "TR",
-            "name": "Türkiye",
-            "abbr3": "TUR",
-            "altName": "TÜRKIYE",
-            "continent": "Europe",
-            "distanceUnits": "Kilometers",
-            "esriUnits": "esriKilometers",
-            "defaultExtent": {
-              "xmin": 25.6696399672,
-              "ymin": 35.8086670224,
-              "xmax": 44.8252858906,
-              "ymax": 42.1049190122,
-              "spatialReference": {
-                "wkid": 4326,
-                "latestWkid": 4326
-              }
-            },
-            "defaultDatasetID": "TUR_MBR_2022",
-            "datasets": [
-              "TUR_MBR_2022"
-            ],
-            "hierarchies": [
-              {
-                "ID": "census",
-                "alias": "TR Standard Data",
-                "shortDescription": "This data source for the standard TR data is Michael Bauer Research (MBR). Vintage 2022.",
-                "default": true,
-                "longDescription": "This data source for the standard TR data is Michael Bauer Research (MBR). Vintage 2022.",
-                "locales": [
-                  "en"
-                ],
-                "datasets": [
-                  "TUR_MBR_2022"
-                ],
-                "levelsInfo": {
-                  "geographyLevels": [
-                    "Country",
-                    "Regions",
-                    "Subregions",
-                    "Provinces",
-                    "Postcodes2",
-                    "Districts",
-                    "Postcodes5"
-                  ]
-                },
-                "variablesInfo": {
-                  "categories": [
-                    "Age",
-                    "Education",
-                    "Households",
-                    "Income",
-                    "Jobs",
-                    "Key Facts",
-                    "Marital Status",
-                    "Population",
-                    "Spending"
-                  ],
-                  "dataBrowserVariableCount": 123
-                },
-                "populationToPolygonSizeRating": 2.38,
-                "apportionmentConfidence": 2.38,
-                "apportionmentThresholds": [
-                  {
-                    "method": "BlockApportion",
-                    "dataLayer": "TR.Postcodes5",
-                    "pointsLayer": "TR.BlockPoints",
-                    "maximumSize": 150
-                  },
-                  {
-                    "method": "CentroidsInPolygon",
-                    "dataLayer": "TR.Postcodes5",
-                    "maximumSize": 250
-                  },
-                  {
-                    "method": "CentroidsInPolygon",
-                    "dataLayer": "TR.Districts"
-                  }
-                ],
-                "hasInterestingFactsStatistics": true
-              }
-            ],
-            "defaultDataCollection": "KeyGlobalFacts",
-            "defaultReport": "TurkeySummaryReport",
-            "defaultReportTemplate": "Türkiye Summary Report",
-            "defaultInfographic": "key-facts-global",
-            "defaultInfographicTemplate": "Key Facts (MBR)",
-            "currencyCode": "TRY",
-            "currencyName": "Turkish Lira",
-            "currencySymbol": "TRY",
-            "currencyFormat": "TRY 0;-TRY 0",
             "dataCollections": ""
           },
           {
@@ -19753,22 +19472,22 @@
                 "latestWkid": 4326
               }
             },
-            "defaultDatasetID": "GBR_MBR_2022",
+            "defaultDatasetID": "GBR_MBR_2021",
             "datasets": [
-              "GBR_MBR_2022"
+              "GBR_MBR_2021"
             ],
             "hierarchies": [
               {
                 "ID": "census",
                 "alias": "GB Standard Data",
-                "shortDescription": "This data source for the standard GB data is Michael Bauer Research (MBR). Vintage 2022.",
+                "shortDescription": "This data source for the standard GB data is Michael Bauer Research (MBR). Vintage 2021.",
                 "default": true,
-                "longDescription": "This data source for the standard GB data is Michael Bauer Research (MBR). Vintage 2022.",
+                "longDescription": "This data source for the standard GB data is Michael Bauer Research (MBR). Vintage 2021.",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
-                  "GBR_MBR_2022"
+                  "GBR_MBR_2021"
                 ],
                 "levelsInfo": {
                   "geographyLevels": [
@@ -19827,6 +19546,8 @@
             "defaultDataCollection": "KeyGlobalFacts",
             "defaultReport": "UnitedKingdomSummaryReport",
             "defaultReportTemplate": "United Kingdom Summary Report",
+            "defaultInfographic": "key-facts-global",
+            "defaultInfographicTemplate": "Key Facts (MBR)",
             "currencyCode": "GBP",
             "currencyName": "British Pound",
             "currencySymbol": "£",
@@ -19854,11 +19575,11 @@
             "defaultDatasetID": "USA_ESRI_2022",
             "datasets": [
               "USA_ESRI_2022",
-              "USA_ACS_1721",
+              "USA_ACS_2022",
               "USA_ASR_2022",
               "USA_CRM_2022",
               "USA_DATAAXLE_2022",
-              "USA_SAFEGRAPH_2023",
+              "USA_SAFEGRAPH_2022",
               "USA_TRFCNT_2022",
               "USA_ESRI_2021",
               "USA_ACS_2021",
@@ -19873,17 +19594,17 @@
                 "alias": "Esri 2022",
                 "shortDescription": "This current year 2022 data is provided by Esri and based on U.S. Census 2020 boundaries.",
                 "default": true,
-                "longDescription": "<p>This current year data source is provided by Esri Inc. and based on U.S. Census 2020 boundaries. Summary data includes:</p><p><ul><li>2022 and 2027 Esri Updated Demographics</li><li>2022 and 2027 Consumer Spending</li><li>2022 Tapestry Segmentation</li><li>2022 Market Potential</li><li>2022 Business Summary</li><li>2017-2021 ACS</li><li>Initial 2020 Census information</li><li>2000 and 2010 Census</li><li>2022 Crime Index</li></ul></p><p><a href='https://links.esri.com/demographics/updated-demographics' target='_blank'>Learn more.</a></p>",
+                "longDescription": "<p>This current year data source is provided by Esri Inc. and based on U.S. Census 2020 boundaries. Summary data includes:</p><p><ul><li>2022 and 2027 Esri Updated Demographics</li><li>2022 and 2027 Consumer Spending</li><li>2022 Tapestry Segmentation</li><li>2022 Market Potential</li><li>2022 Business Summary</li><li>2016-2020 ACS</li><li>Initial 2020 Census information</li><li>2000 and 2010 Census</li><li>2022 Crime Index</li></ul></p><p><a href='https://links.esri.com/demographics/updated-demographics' target='_blank'>Learn more.</a></p>",
                 "locales": [
                   "en"
                 ],
                 "datasets": [
                   "USA_ESRI_2022",
-                  "USA_ACS_1721",
+                  "USA_ACS_2022",
                   "USA_ASR_2022",
                   "USA_CRM_2022",
                   "USA_DATAAXLE_2022",
-                  "USA_SAFEGRAPH_2023",
+                  "USA_SAFEGRAPH_2022",
                   "USA_TRFCNT_2022"
                 ],
                 "levelsInfo": {
@@ -19924,7 +19645,7 @@
                     "Spending",
                     "Tapestry"
                   ],
-                  "dataBrowserVariableCount": 9738
+                  "dataBrowserVariableCount": 9715
                 },
                 "populationToPolygonSizeRating": 2.191,
                 "apportionmentConfidence": 2.576,
@@ -20351,7 +20072,7 @@
             "defaultReport": "VenezuelaSummaryReport",
             "defaultReportTemplate": "Venezuela Summary Report",
             "currencyCode": "VEF",
-            "currencyName": "Venezuelan Bolívar (2008–2018)",
+            "currencyName": "Venezuelan Bolívar",
             "currencySymbol": "VEF",
             "currencyFormat": "VEF 0;-VEF 0",
             "dataCollections": ""
@@ -20676,7 +20397,8 @@
           }
         ],
         "error": null,
-        "showHeaderSettings": true
+        "showHeaderSettings": true,
+        "headerTextColor": "#FFFFFF"
       },
       "id": "widget_98",
       "useMapWidgetIds": [
@@ -26065,13 +25787,13 @@
           },
           "scale": "Fit",
           "imageParam": {
-            "url": "${appResourceUrl}/images/widget_109/1678174685624.png",
-            "originalUrl": "${appResourceUrl}/images/widget_109/1678174685624.png",
-            "fileName": "1678174685624.png",
+            "url": "${appResourceUrl}/images/widget_109/1678181876290.png",
+            "originalUrl": "${appResourceUrl}/images/widget_109/1678181876290.png",
+            "fileName": "1678181876290.png",
             "originalName": "SDA_logo_light.png",
             "imgSourceType": "BY_UPLOAD",
             "fileFormat": "image/png",
-            "originalId": "1678174685624",
+            "originalId": "1678181876290",
             "isUseCompress": false,
             "originalWidth": 2466,
             "originalHeight": 1375,
@@ -26624,23 +26346,6 @@
         }
       },
       "id": "widget_166",
-      "useMapWidgetIds": [
-        "widget_86"
-      ]
-    },
-    "widget_167": {
-      "uri": "widgets/arcgis/map-layers/",
-      "version": "1.10.0",
-      "label": "Map Layers",
-      "config": {
-        "useMapWidget": true,
-        "goto": true,
-        "label": true,
-        "information": true,
-        "setVisibility": true,
-        "opacity": true
-      },
-      "id": "widget_167",
       "useMapWidgetIds": [
         "widget_86"
       ]
@@ -49129,106 +48834,6 @@
       "id": "widget_188",
       "useDataSources": []
     },
-    "widget_190": {
-      "uri": "widgets/feature-info-copy/",
-      "version": "1.10.0",
-      "label": "Feature Info-copy 2",
-      "config": {
-        "limitGraphics": false,
-        "maxGraphics": 0,
-        "title": true,
-        "fields": true,
-        "media": true,
-        "attachments": true,
-        "lastEditInfo": true,
-        "noDataMessage": "",
-        "styleType": "custom",
-        "style": {
-          "textColor": "",
-          "fontSizeType": "auto",
-          "fontSize": {
-            "distance": 14,
-            "unit": "px"
-          },
-          "backgroundColor": ""
-        }
-      },
-      "id": "widget_190",
-      "dataActions": {
-        "showOnMap": {
-          "config": {
-            "isUseCustomSymbol": true,
-            "symbolOption": {
-              "pointSymbol": {
-                "type": "esriSMS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "angle": 0,
-                "xoffset": 0,
-                "yoffset": 0,
-                "size": 12,
-                "style": "esriSMSCircle",
-                "outline": {
-                  "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
-                  "width": 1,
-                  "style": "esriSLSSolid"
-                }
-              },
-              "polylineSymbol": {
-                "type": "esriSLS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "width": 0.75,
-                "style": "esriSLSSolid"
-              },
-              "polygonSymbol": {
-                "type": "esriSFS",
-                "color": [
-                  255,
-                  255,
-                  0,
-                  150
-                ],
-                "outline": {
-                  "type": "esriSLS",
-                  "color": [
-                    255,
-                    255,
-                    0,
-                    150
-                  ],
-                  "width": 1,
-                  "style": "esriSLSSolid"
-                },
-                "style": "esriSFSSolid"
-              }
-            }
-          }
-        }
-      },
-      "useDataSources": [
-        {
-          "dataSourceId": "dataSource_7-1868decd722-layer-91",
-          "mainDataSourceId": "dataSource_7-1868decd722-layer-91",
-          "rootDataSourceId": "dataSource_7",
-          "useFieldsInPopupInfo": true
-        }
-      ]
-    },
     "widget_191": {
       "uri": "widgets/common/embed/",
       "version": "1.10.0",
@@ -49437,52 +49042,302 @@
         }
       }
     },
-    "widget_194": {
-      "uri": "widgets/arcgis/map-layers/",
+    "widget_195": {
+      "uri": "widgets/common/button/",
       "version": "1.10.0",
-      "label": "Map Layers 2",
+      "label": "Button 3",
       "config": {
-        "useMapWidget": true,
-        "label": true,
-        "opacity": true,
-        "information": true,
-        "setVisibility": true,
-        "goto": true
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "${appResourceUrl}/images/icon_picker_in_setting/1678095639817.png",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "WEB_ADDRESS",
+            "openType": "_blank",
+            "value": "https://localhost:3001/experience/12/?draft=true",
+            "expression": null
+          }
+        },
+        "styleConfig": {
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "var(--light-500)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--light-500)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--black)",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  100,
+                  100,
+                  100,
+                  100
+                ]
+              },
+              "iconProps": {
+                "color": "var(--black)",
+                "size": 18
+              },
+              "boxShadow": {
+                "offsetX": "0px",
+                "offsetY": "0px",
+                "blur": "5px",
+                "spread": "0px",
+                "color": "#ffffff"
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "rgba(0,0,0,0.3)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  100,
+                  100,
+                  100,
+                  100
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            }
+          },
+          "useCustom": true
+        }
       },
-      "id": "widget_194",
-      "useMapWidgetIds": [
-        "widget_86"
-      ]
+      "id": "widget_195",
+      "style": {
+        "borderRadius": {
+          "number": [
+            50,
+            50,
+            50,
+            50
+          ],
+          "unit": "px"
+        }
+      }
     },
     "widget_196": {
-      "uri": "widgets/arcgis/oriented-imagery/",
+      "uri": "widgets/feature-info-copy/",
       "version": "1.10.0",
-      "label": "Oriented Imagery 2",
+      "label": "Feature Info-copy",
       "config": {
-        "editingEnabled": true,
-        "vectorLayers": [
-          {
-            "featureLayer": {
-              "title": "CitizenProblemsNapervilleDomain",
-              "id": "18626535bf5-layer-76"
-            },
-            "addToViewer": true,
-            "editing": true
+        "limitGraphics": false,
+        "maxGraphics": 0,
+        "title": true,
+        "fields": true,
+        "media": true,
+        "attachments": true,
+        "lastEditInfo": true,
+        "noDataMessage": "",
+        "styleType": "custom",
+        "style": {
+          "textColor": "",
+          "fontSizeType": "auto",
+          "fontSize": {
+            "distance": 14,
+            "unit": "px"
           },
-          {
-            "featureLayer": {
-              "title": "California fires since 2014 - Fire perimeters 2016",
-              "id": "1868decd722-layer-91"
-            },
-            "addToViewer": false,
-            "editing": false
-          }
-        ],
-        "oicList": []
+          "backgroundColor": ""
+        }
       },
       "id": "widget_196",
-      "useMapWidgetIds": [
-        "widget_86"
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_8-1862b5ca52f-layer-121",
+          "mainDataSourceId": "dataSource_8-1862b5ca52f-layer-121",
+          "rootDataSourceId": "dataSource_8",
+          "useFieldsInPopupInfo": true
+        }
+      ]
+    },
+    "widget_197": {
+      "uri": "widgets/feature-info-copy/",
+      "version": "1.10.0",
+      "label": "Feature Info-copy 2",
+      "config": {
+        "limitGraphics": false,
+        "maxGraphics": 0,
+        "title": true,
+        "fields": true,
+        "media": true,
+        "attachments": true,
+        "lastEditInfo": true,
+        "noDataMessage": "",
+        "styleType": "custom",
+        "style": {
+          "textColor": "",
+          "fontSizeType": "auto",
+          "fontSize": {
+            "distance": 14,
+            "unit": "px"
+          },
+          "backgroundColor": ""
+        }
+      },
+      "id": "widget_197",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_8-1862b5ca52f-layer-121",
+          "mainDataSourceId": "dataSource_8-1862b5ca52f-layer-121",
+          "rootDataSourceId": "dataSource_8",
+          "useFieldsInPopupInfo": true
+        }
       ]
     }
   },
@@ -50708,7 +50563,7 @@
     "portalUrl": "https://ahmed-darwish.maps.arcgis.com",
     "isWebTier": false,
     "clientId": "",
-    "title": "Geo Explorer Dark deploy",
+    "title": "Geo Explorer Dark Copy",
     "description": "",
     "type": "Web Experience",
     "thumbnail": null
@@ -50720,7 +50575,7 @@
       "page_1": []
     }
   ],
-  "timestamp": 1678175507774,
+  "timestamp": 1678191126257,
   "customTheme": {
     "colors": {
       "primary": "#8ba3af",
