@@ -1,1 +1,111 @@
-{"1675079941246":{"originalName":"saudi_map.png","fileName":"1675079941246.png","size":713727,"url":"${appResourceUrl}/images/background_setting/1675079941246.png","created":1675079941246,"resourcesPrefix":"images/background_setting","referedIds":[],"originId":"1675079941246","fileFormat":"image/png","isUseCompress":false,"originalWidth":1138,"originalHeight":932},"1675098631562":{"originalName":"SDA_logo_v.png","fileName":"1675098631562.png","size":57298,"url":"${appResourceUrl}/images/widget_10/1675098631562.png","created":1675098631562,"resourcesPrefix":"images/widget_10","referedIds":[],"originId":"1675098631562","fileFormat":"image/png","isUseCompress":false,"originalWidth":789,"originalHeight":440},"1675153554979":{"originalName":"smal-logo.png","fileName":"1675153554979.png","size":29143,"url":"${appResourceUrl}/images/widget_17/1675153554979.png","created":1675153554979,"resourcesPrefix":"images/widget_17","referedIds":[],"originId":"1675153554979","fileFormat":"image/png","isUseCompress":false,"originalWidth":304,"originalHeight":100},"1675172311066":{"originalName":"SDA-logo.png","fileName":"1675172311066.png","size":24860,"url":"${appResourceUrl}/images/widget_27/1675172311066.png","created":1675172311066,"resourcesPrefix":"images/widget_27","referedIds":[],"originId":"1675172311066","fileFormat":"image/png","isUseCompress":false,"originalWidth":519,"originalHeight":169},"1675241248696":{"originalName":"Screenshot_20230201_104651.png","fileName":"1675241248696.png","size":16396,"url":"${appResourceUrl}/images/widget_46/1675241248696.png","created":1675241248696,"resourcesPrefix":"images/widget_46","referedIds":[],"originId":"1675241248696","fileFormat":"image/png","isUseCompress":false,"originalWidth":279,"originalHeight":55},"1675278068173":{"originalName":"Saudi_Vision_2030_logo.svg.png","fileName":"1675278068173.png","size":331158,"url":"${appResourceUrl}/images/widget_65/1675278068173.png","created":1675278068173,"resourcesPrefix":"images/widget_65","referedIds":[],"originId":"1675278068173","fileFormat":"image/png","isUseCompress":false,"originalWidth":2560,"originalHeight":1720},"1675846900476":{"originalName":"colored-logo.png","fileName":"1675846900476.png","size":7596,"url":"${appResourceUrl}/images/widget_148/1675846900476.png","created":1675846900476,"resourcesPrefix":"images/widget_148","referedIds":["1675928060561"],"originId":"1675846900476","fileFormat":"image/png","isUseCompress":false,"originalWidth":134,"originalHeight":90},"1675846947047":{"originalName":"darklogo.png","fileName":"1675846947047.png","size":14224,"url":"${appResourceUrl}/images/widget_149/1675846947047.png","created":1675846947047,"resourcesPrefix":"images/widget_149","referedIds":[],"originId":"1675846947047","fileFormat":"image/png","isUseCompress":false,"originalWidth":319,"originalHeight":94},"1675928060561":{"file":{},"fileName":"1675928060561.jpeg","url":"${appResourceUrl}/images/templates/1675928060561.jpeg","referedIds":[],"fileFormat":"image/jpeg","originId":"1675846900476","resourcesPrefix":"images/templates"},"1675928096169":{"originalName":"SDA-logo.png","fileName":"1675928096169.png","size":24860,"url":"${appResourceUrl}/images/widget_154/1675928096169.png","created":1675928096169,"resourcesPrefix":"images/widget_154","referedIds":[],"originId":"1675928096169","fileFormat":"image/png","isUseCompress":false,"originalWidth":519,"originalHeight":169},"1676273761286":{"originalName":"tree.png","fileName":"1676273761286.png","size":23671,"url":"${appResourceUrl}/images/widget_109/1676273761286.png","created":1676273761286,"resourcesPrefix":"images/widget_109","referedIds":[],"originId":"1676273761286","fileFormat":"image/png","isUseCompress":false,"originalWidth":512,"originalHeight":512}}
+{
+  "1675172311066": {
+    "originalName": "SDA-logo.png",
+    "fileName": "1675172311066.png",
+    "size": 24860,
+    "url": "${appResourceUrl}/images/widget_27/1675172311066.png",
+    "created": 1675172311066,
+    "resourcesPrefix": "images/widget_27",
+    "referedIds": [],
+    "originId": "1675172311066",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 519,
+    "originalHeight": 169
+  },
+  "1675846900476": {
+    "originalName": "colored-logo.png",
+    "fileName": "1675846900476.png",
+    "size": 7596,
+    "url": "${appResourceUrl}/images/widget_148/1675846900476.png",
+    "created": 1675846900476,
+    "resourcesPrefix": "images/widget_148",
+    "referedIds": [
+      "1675928060561"
+    ],
+    "originId": "1675846900476",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 134,
+    "originalHeight": 90
+  },
+  "1675846947047": {
+    "originalName": "darklogo.png",
+    "fileName": "1675846947047.png",
+    "size": 14224,
+    "url": "${appResourceUrl}/images/widget_149/1675846947047.png",
+    "created": 1675846947047,
+    "resourcesPrefix": "images/widget_149",
+    "referedIds": [],
+    "originId": "1675846947047",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 319,
+    "originalHeight": 94
+  },
+  "1675928060561": {
+    "file": {},
+    "fileName": "1675928060561.jpeg",
+    "url": "${appResourceUrl}/images/templates/1675928060561.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1675846900476",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676273761286": {
+    "originalName": "tree.png",
+    "fileName": "1676273761286.png",
+    "size": 23671,
+    "url": "${appResourceUrl}/images/widget_109/1676273761286.png",
+    "created": 1676273761286,
+    "resourcesPrefix": "images/widget_109",
+    "referedIds": [],
+    "originId": "1676273761286",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 512,
+    "originalHeight": 512
+  },
+  "1678093458334": {
+    "originalName": "logo.png",
+    "fileName": "1678093458334.png",
+    "size": 5519,
+    "url": "${appResourceUrl}/images/widget_116/1678093458334.png",
+    "created": 1678093458334,
+    "resourcesPrefix": "images/widget_116",
+    "referedIds": [],
+    "originId": "1678093458334",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 134,
+    "originalHeight": 90
+  },
+  "1678093875513": {
+    "originalName": "logo.png",
+    "fileName": "1678093875513.png",
+    "size": 5519,
+    "url": "${appResourceUrl}/images/widget_161/1678093875513.png",
+    "created": 1678093875513,
+    "resourcesPrefix": "images/widget_161",
+    "referedIds": [],
+    "originId": "1678093875513",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 134,
+    "originalHeight": 90
+  },
+  "1678181876290": {
+    "originalName": "SDA_logo_light.png",
+    "fileName": "1678181876290.png",
+    "size": 121386,
+    "url": "${appResourceUrl}/images/widget_109/1678181876290.png",
+    "created": 1678181876290,
+    "resourcesPrefix": "images/widget_109",
+    "referedIds": [],
+    "originId": "1678181876290",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 2466,
+    "originalHeight": 1375
+  }
+}
